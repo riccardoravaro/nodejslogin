@@ -5,3 +5,8 @@ body {
 a {
   color: #00B7FF;
 }
+
+
+ul.sucess li {
+	color: #3c763d;
+}

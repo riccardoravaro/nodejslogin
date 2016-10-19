@@ -2,6 +2,7 @@ var express = require('express');
 var multer = require('multer');
 //handle file uploads
 var upload = multer({dest:'./uploads'});
+var User = require('../models/user');
 
 var router = express.Router();
 
@@ -54,6 +55,23 @@ router.get('/register', function(req, res, next) {
  		})
  	} else {
  		console.log('No errors');
+ 		console.log(User);
+ 		var newUser = new User ({
+ 			name: name,
+ 			email: email,
+ 			username: username,
+ 			passowrd: password,
+ 			profileimage: profileimage
+ 		});
+
+ 		User.createUser(newUser, function(err, user){
+ 			if(err) throw err;
+ 			console.log(user);
+ 		})
+
+ 		req.flash('success', 'You are now registered and can Login');
+ 		res.location('/');
+ 		res.redirect('/');
  	}
 
  })

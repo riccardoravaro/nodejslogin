@@ -5,6 +5,6 @@ services:
       image: mongo
       container_name: mongo_volume
       ports:
-        - "5000:5000"
+        - "27017:27017"
       volumes:
         - ./db:/data/db 
