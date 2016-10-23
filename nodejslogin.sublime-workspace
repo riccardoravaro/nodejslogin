@@ -1,0 +1,1861 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scr",
+				"scripts"
+			],
+			[
+				"get_define",
+				"get_defined_vars"
+			],
+			[
+				"fet",
+				"fetchAllAssoc"
+			],
+			[
+				"$terms",
+				"$terms_query"
+			],
+			[
+				"get_defi",
+				"get_defined_vars"
+			],
+			[
+				"get",
+				"get_tiles_list"
+			],
+			[
+				"til",
+				"tilesListCtr"
+			],
+			[
+				"ti",
+				"tilesListCtr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "npm install -g express\nnpm install -g express-generator",
+			"file": "note.md",
+			"file_size": 0,
+			"file_write_time": 131212125460000000,
+			"settings":
+			{
+				"buffer_size": 55,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docker-compose.yml",
+			"settings":
+			{
+				"buffer_size": 165,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/users.js",
+			"settings":
+			{
+				"buffer_size": 1955,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/stylesheets/style.css",
+			"settings":
+			{
+				"buffer_size": 129,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/layout.jade",
+			"settings":
+			{
+				"buffer_size": 1192,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/register.jade",
+			"settings":
+			{
+				"buffer_size": 998,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 579,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "start.sh",
+			"settings":
+			{
+				"buffer_size": 36,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 2578,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/user.js",
+			"settings":
+			{
+				"buffer_size": 495,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ter",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package sync",
+				"Package Syncing: Push Settings"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"syncing",
+				"Package Syncing: Define Sync Folder"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"phpfmt: format now"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"tag",
+				"Tag: Close Tag"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"fy",
+				"HTMLPrettify"
+			],
+			[
+				"drus",
+				"Drush: Cron"
+			],
+			[
+				"jscs",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"forma",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"gutter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"linting",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"jshint",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"subli",
+				"SublimeLinter: Next Error"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 440.0,
+		"history":
+		[
+			"jscs . ;",
+			"jscs .",
+			"jsc",
+			"/usr/local/bin/jscs",
+			"/usr/local/bin/jscs -c",
+			"jscs -c",
+			"clear",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/riccardoravaro/Documents/web/node/nodejslogin",
+		"/Users/riccardoravaro/Documents/web/node/nodejslogin/models",
+		"/Users/riccardoravaro/Documents/web/node/nodejslogin/public",
+		"/Users/riccardoravaro/Documents/web/node/nodejslogin/public/stylesheets",
+		"/Users/riccardoravaro/Documents/web/node/nodejslogin/routes",
+		"/Users/riccardoravaro/Documents/web/node/nodejslogin/views"
+	],
+	"file_history":
+	[
+		"/Users/riccardoravaro/Documents/web/node/nodejslogin/routes/users.js",
+		"/Users/riccardoravaro/Documents/web/node/nodejslogin/bin/www",
+		"/Users/riccardoravaro/Documents/web/node/nodejslogin/public/stylesheets/style.css",
+		"/Users/riccardoravaro/Documents/web/node/nodejslogin/views/layout.jade",
+		"/Users/riccardoravaro/Documents/web/node/nodejslogin/docker-compose.yml",
+		"/Users/riccardoravaro/Library/Application Support/Sublime Text 3/Packages/User/Package Syncing.sublime-settings",
+		"/Users/riccardoravaro/Documents/web/node/NodejsSimpleExpressApp/views/contact.jade",
+		"/Users/riccardoravaro/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/riccardoravaro/Library/Application Support/Sublime Text 3/Packages/Package Syncing/Package Syncing.sublime-settings",
+		"/Users/riccardoravaro/Documents/web/node/NodejsSimpleExpressApp/views/index.jade",
+		"/Users/riccardoravaro/Library/Application Support/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/Users/riccardoravaro/Library/Application Support/Sublime Text 3/Packages/User/JSCS-Formatter.sublime-settings",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/back-end/models/Message.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/index.run.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/back-end/models/User.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/back-end/controllers/auth.js",
+		"/Users/riccardoravaro/Library/Application Support/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/Users/riccardoravaro/Library/Application Support/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/gulpfile.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/main/main.html",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/components/navbar/navbar.html",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/auth/auth.html",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/components/navbar/navbar.directive.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/back-end/package.json",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/index.config.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/index.module.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/index.route.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/auth/auth.controller.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/directives/compareTo.directive.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/app/main/main.controller.js",
+		"/Users/riccardoravaro/Documents/web/MEAN/Project1/front-end/src/index.html",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_banner.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/abstractions/_mixin.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/base/_helper_classes.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_menu.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/app.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/page/app.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/abstractions/_ghost_button.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/base/_class_script.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/base/_article.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/page--front.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/page/controllers/pageCtr.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/page.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_navicon-transform.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/js/script.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bower_components/angular-ui-bootstrap/misc/demo/assets/app.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles/views/mostpopular-list.html",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles/controllers/tiles.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/directives/articlesTileDrv.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles/directives/mostpopularDrv.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/services/articlesSrv.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/node--article_video--content.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_node_image.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/template.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/base/_tiles.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/views/article-tile.html",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_article_tile.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/node--article_text--content.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/node--article_image--content.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/.gitignore",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/node--article.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/region--header.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/base/_style.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_footer.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_login.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/_bootstrap_variables.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_navigation.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_parallex.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_taxonomy.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/Gruntfile.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/abstractions/_minimal.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/html.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/directives/facebooklikesDrv.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/views/facebooklikes.html",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/region--footer.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles/app.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/services/helpers.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles/services/searchtiles.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/app.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/sections/node--tutorials.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/sections/node--artists.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/sections/node--controllers.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/sections/node--news.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/sections/node--software.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/djcontrollerism.com/settings.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bootstrap_subtheme.info",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bower.json",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/directives/elemReadydrv.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/filters/urlfileter.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/filters/doublequoteflt.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/common/services/slidesSrv.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/includes/common.inc",
+		"/Users/riccardoravaro/Desktop/debug.html",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_facebook_likes.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bower_components/bootstrap-sass/CHANGELOG.md",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/field--field_tags--article.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles/views/terms-filter.html",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/view-filters-taxonomy_term.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_rrssb.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/libraries/rrssb/scss/rrssb.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_mostpopular.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/vagrant.djcontrollerism.com/settings.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles/views/tiles-list.html",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/abstractions/_media_query.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/theme/system/page--front.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/theme/system/region--footer.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/theme/system/page.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_video.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/node--article_image.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme/node--article_text.tpl.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_text-container.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/modules/system/system.admin.inc",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/rrssb/rrssb.info",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_loader.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_animations.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/features/most_popular/most_popular.views_default.inc",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/custom/facebook_likes/facebook_likes.module",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/formsubmit.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/.htaccess",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/custom/facebook_likes/facebook_likes.info",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles/directives/elemReadydrv.js",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_box.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/base/_override.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/base/_sites.scss",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/contrib/views_datasource/views/plugins/views_plugin_style_json.inc",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/.gitignore",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/sites.php",
+		"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components/_node_article.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src/tiles",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bower_components/bootstrap-sass/assets",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bower_components/bootstrap-sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app/src",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass/components",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/contrib/views_datasource",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/theme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/theme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bower_components/bootstrap-sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bower_components/bootstrap-sass/assets",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/bower_components/bootstrap-sass/assets/stylesheets/bootstrap",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/app",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/contrib/views_datasource/views",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme/sass",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/themes/bootstrap/bootstrap_subtheme",
+			"/Users/riccardoravaro/Documents/web/djc/djc_develop/docroot/sites/all/modules/contrib/flexslider/theme/flexslider.theme.inc",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"And the rest of the most Wanna finish this so we can actually tested first place next thing",
+			"multer",
+			"auth",
+			"text-container",
+			"inline-block",
+			"display: inline-block;",
+			"display:inline-block;",
+			"inline-block",
+			".image-wrapper",
+			"SmoothScroll",
+			"200",
+			"wrapper",
+			"logo",
+			".admin-menu #nav-container, .admin-menu #side-nav-container, .admin-menu #site-container",
+			"backgrounD",
+			"margin-top: 0px",
+			"margin-top: 0px !important;",
+			"    /* margin-top: 0px !important; */",
+			"240px",
+			"top",
+			"50",
+			"62",
+			"#banner-wrapper ",
+			"menu",
+			".top",
+			"font-weig",
+			"Gotham Narrow",
+			"'Gotham Narrow",
+			"'Gotham Narrow ",
+			"'Gotham Narrow A','Gotham Narrow B','Arial Narrow'",
+			".global-nav",
+			"$mercury",
+			"body",
+			"article-tile",
+			"article-title",
+			".tile-title",
+			"#banner-wrapper",
+			"#banner-wrapper .tile-wrapper",
+			"height: 300px;",
+			"    height: 300px;",
+			"#banner-wrapper",
+			".tile-wrapper",
+			"min-",
+			"border",
+			"articlesSrv",
+			"_node",
+			"transition",
+			"bind",
+			"termsfilters",
+			"radius",
+			"global-nav",
+			"term-filter-container",
+			".rrssb-buttons.large-format li a,.rrssb-buttons.large-format li a .rrssb-text{-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;}.rrssb-buttons,.rrssb-buttons li,.rrssb-buttons li a{-moz-box-sizing:border-box;box-sizing:border-box;}.clearfix{*zoom:1;}.clearfix:after{clear:both;}.clearfix:before,.clearfix:after{content:\" \";display:table;}.rrssb-buttons{font-family:\"Helvetica Neue\",Helvetica,Arial,sans-serif;height:36px;margin:0;padding:0;width:100%;}.rrssb-buttons li{float:left;height:100%;line-height:13px;list-style:none;margin:0;padding:0 2px;}.rrssb-buttons li.rrssb-email a{background-color:#0a88ff;}.rrssb-buttons li.rrssb-email a:hover{background-color:#006ed6;}.rrssb-buttons li.rrssb-facebook a{background-color:#306199;}.rrssb-buttons li.rrssb-facebook a:hover{background-color:#244872;}.rrssb-buttons li.rrssb-tumblr a{background-color:#32506d;}.rrssb-buttons li.rrssb-tumblr a:hover{background-color:#22364a;}.rrssb-buttons li.rrssb-linkedin a{background-color:#007bb6;}.rrssb-buttons li.rrssb-linkedin a:hover{background-color:#005983;}.rrssb-buttons li.rrssb-twitter a{background-color:#26c4f1;}.rrssb-buttons li.rrssb-twitter a:hover{background-color:#0eaad6;}.rrssb-buttons li.rrssb-googleplus a{background-color:#e93f2e;}.rrssb-buttons li.rrssb-googleplus a:hover{background-color:#ce2616;}.rrssb-buttons li.rrssb-youtube a{background-color:#df1c31;}.rrssb-buttons li.rrssb-youtube a:hover{background-color:#b21627;}.rrssb-buttons li.rrssb-reddit a{background-color:#8bbbe3;}.rrssb-buttons li.rrssb-reddit a:hover{background-color:#62a3d9;}.rrssb-buttons li.rrssb-pinterest a{background-color:#b81621;}.rrssb-buttons li.rrssb-pinterest a:hover{background-color:#8a1119;}.rrssb-buttons li.rrssb-pocket a{background-color:#ED4054;}.rrssb-buttons li.rrssb-pocket a:hover{background-color:#e4162d;}.rrssb-buttons li.rrssb-github a{background-color:#444444;}.rrssb-buttons li.rrssb-github a:hover{background-color:#2b2b2b;}.rrssb-buttons li.rrssb-instagram a{background-color:#517fa4;}.rrssb-buttons li.rrssb-instagram a:hover{background-color:#406582;}.rrssb-buttons li a{background-color:#ccc;border-radius:2px;display:block;font-size:11px;font-weight:bold;height:100%;padding:11px 7px 12px 27px;position:relative;text-align:center;text-decoration:none;text-transform:uppercase;width:100%;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-transition:background-color 0.2s ease-in-out;-moz-transition:background-color 0.2s ease-in-out;-o-transition:background-color 0.2s ease-in-out;transition:background-color 0.2s ease-in-out;}.rrssb-buttons li a .rrssb-icon{display:block;left:10px;padding-top:9px;position:absolute;top:0;width:10%;}.rrssb-buttons li a .rrssb-icon svg{height:17px;width:17px;}.rrssb-buttons li a .rrssb-icon svg path,.rrssb-buttons li a .rrssb-icon svg polygon{fill:#ffffff;}.rrssb-buttons li a .rrssb-text{color:#ffffff;}.rrssb-buttons li a:active{box-shadow:inset 1px 3px 15px 0 rgba(22,0,0,0.25);}.rrssb-buttons li.small a{padding:0;}.rrssb-buttons li.small a .rrssb-icon{left:auto;margin:0 auto;overflow:hidden;position:relative;top:auto;width:100%;}.rrssb-buttons li.small a .rrssb-text{visibility:hidden;}.rrssb-buttons.large-format{height:auto;}.rrssb-buttons.large-format li{height:auto;}.rrssb-buttons.large-format li:first-child:nth-last-child(1) a{font-size:20px;font-size:4vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(2) a,.rrssb-buttons.large-format li:first-child:nth-last-child(2) ~ li a{font-size:16px;font-size:2vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(3) a,.rrssb-buttons.large-format li:first-child:nth-last-child(3) ~ li a{font-size:14px;font-size:.9vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(4) a,.rrssb-buttons.large-format li:first-child:nth-last-child(4) ~ li a{font-size:13px;font-size:1.4vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(5) a,.rrssb-buttons.large-format li:first-child:nth-last-child(5) ~ li a{font-size:13px;font-size:1.2vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(6) a,.rrssb-buttons.large-format li:first-child:nth-last-child(6) ~ li a{font-size:12px;font-size:1.05vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(7) a,.rrssb-buttons.large-format li:first-child:nth-last-child(7) ~ li a{font-size:11px;font-size:.9vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(8) a,.rrssb-buttons.large-format li:first-child:nth-last-child(8) ~ li a{font-size:11px;font-size:.8vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(9) a,.rrssb-buttons.large-format li:first-child:nth-last-child(9) ~ li a{font-size:11px;font-size:.7vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(10) a,.rrssb-buttons.large-format li:first-child:nth-last-child(10) ~ li a{font-size:11px;font-size:.6vw;}.rrssb-buttons.large-format li:first-child:nth-last-child(11) a,.rrssb-buttons.large-format li:first-child:nth-last-child(11) ~ li a{font-size:11px;font-size:.5vw;}.rrssb-buttons.large-format li a{border-radius:0.2em;padding:8.5% 0 8.5% 12%;}.rrssb-buttons.large-format li a .rrssb-icon{height:100%;left:7%;padding-top:0;width:12%;}.rrssb-buttons.large-format li a .rrssb-icon svg{height:100%;width:100%;position:absolute;top:0;}.rrssb-buttons.small-format{padding-top:5px;}.rrssb-buttons.small-format li{height:80%;padding:0 1px;}.rrssb-buttons.small-format li a .rrssb-icon{height:100%;padding-top:0;}.rrssb-buttons.small-format li a .rrssb-icon svg{height:48%;position:relative;top:6px;width:80%;}.rrssb-buttons.tiny-format{height:22px;position:relative;}.rrssb-buttons.tiny-format li{padding-right:7px;}.rrssb-buttons.tiny-format li a{background-color:transparent;padding:0;}.rrssb-buttons.tiny-format li a .rrssb-icon svg{height:70%;width:100%;}.rrssb-buttons.tiny-format li a:hover,.rrssb-buttons.tiny-format li a:active{background-color:transparent;}.rrssb-buttons.tiny-format li.rrssb-email a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-email a .rrssb-icon svg polygon{fill:#0a88ff;}.rrssb-buttons.tiny-format li.rrssb-email a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-email a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#0054a3;}.rrssb-buttons.tiny-format li.rrssb-facebook a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-facebook a .rrssb-icon svg polygon{fill:#306199;}.rrssb-buttons.tiny-format li.rrssb-facebook a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-facebook a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#18304b;}.rrssb-buttons.tiny-format li.rrssb-tumblr a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-tumblr a .rrssb-icon svg polygon{fill:#32506d;}.rrssb-buttons.tiny-format li.rrssb-tumblr a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-tumblr a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#121d27;}.rrssb-buttons.tiny-format li.rrssb-linkedin a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-linkedin a .rrssb-icon svg polygon{fill:#007bb6;}.rrssb-buttons.tiny-format li.rrssb-linkedin a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-linkedin a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#003650;}.rrssb-buttons.tiny-format li.rrssb-twitter a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-twitter a .rrssb-icon svg polygon{fill:#26c4f1;}.rrssb-buttons.tiny-format li.rrssb-twitter a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-twitter a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#0b84a6;}.rrssb-buttons.tiny-format li.rrssb-googleplus a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-googleplus a .rrssb-icon svg polygon{fill:#e93f2e;}.rrssb-buttons.tiny-format li.rrssb-googleplus a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-googleplus a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#a01e11;}.rrssb-buttons.tiny-format li.rrssb-youtube a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-youtube a .rrssb-icon svg polygon{fill:#df1c31;}.rrssb-buttons.tiny-format li.rrssb-youtube a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-youtube a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#84111d;}.rrssb-buttons.tiny-format li.rrssb-reddit a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-reddit a .rrssb-icon svg polygon{fill:#8bbbe3;}.rrssb-buttons.tiny-format li.rrssb-reddit a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-reddit a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#398bcf;}.rrssb-buttons.tiny-format li.rrssb-pinterest a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-pinterest a .rrssb-icon svg polygon{fill:#b81621;}.rrssb-buttons.tiny-format li.rrssb-pinterest a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-pinterest a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#5d0b11;}.rrssb-buttons.tiny-format li.rrssb-pocket a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-pocket a .rrssb-icon svg polygon{fill:#ED4054;}.rrssb-buttons.tiny-format li.rrssb-pocket a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-pocket a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#b61124;}.rrssb-buttons.tiny-format li.rrssb-github a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-github a .rrssb-icon svg polygon{fill:#444444;}.rrssb-buttons.tiny-format li.rrssb-github a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-github a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#111111;}.rrssb-buttons.tiny-format li.rrssb-instagram a .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-instagram a .rrssb-icon svg polygon{fill:#517fa4;}.rrssb-buttons.tiny-format li.rrssb-instagram a .rrssb-icon:hover .rrssb-icon svg path,.rrssb-buttons.tiny-format li.rrssb-instagram a .rrssb-icon:hover .rrssb-icon svg polygon{fill:#2f4a60;}\nrrssb-button",
+			"rrssb",
+			".facebook_likes",
+			"span4",
+			"span",
+			"tile-content",
+			"dpm",
+			"system_sort_modules_by_info_name",
+			"function system_modules",
+			"system_modules",
+			"embedded-video",
+			"text-container",
+			"image-container",
+			"marin-container",
+			".top a.logo.pull-left {",
+			"logo",
+			"{'display-none' : loading!= true}",
+			"margin-bottom-xs",
+			"tile margin-bottom-xs",
+			"margin-bottom-xs",
+			".margin-bottom-xs",
+			"banner-wrapper",
+			"transition",
+			"facebook_like",
+			"custom_module",
+			"elem-ready",
+			"loaded",
+			"fix",
+			"transition",
+			"play-entries",
+			"media",
+			"padding",
+			"fadeIn",
+			"spinner-logo",
+			"fade",
+			"fade-in",
+			"animate",
+			"ng-app",
+			"tile",
+			"numeric",
+			"tile-content",
+			"tile-content ",
+			"tile",
+			"JSON_BIGINT_AS_STRING",
+			"djc.result",
+			"slogan",
+			"site",
+			"logo",
+			"header",
+			"djcontrollerism.local",
+			"101746158",
+			"top",
+			"block",
+			"permission",
+			"configure",
+			"Configure",
+			"Configure block",
+			".center",
+			"image-container",
+			"page",
+			"disqus",
+			"disquis",
+			"dpm",
+			".play-entries",
+			"nimbussans",
+			"fn",
+			"tilesListCtr",
+			"field_image",
+			"'Montserrat'",
+			"ip",
+			".ghost-white-sm",
+			".ghost-white-sm:hover",
+			"white",
+			".ghost-white-sm",
+			"hover",
+			"@extend %extend_4;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@include inline-block;",
+			"facebook_likes",
+			"facebook_like",
+			"sonnox-posts",
+			"scale",
+			"",
+			":hover",
+			":a",
+			"captioncolor",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "note.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "docker-compose.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										124,
+										125
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										112,
+										113
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "routes/users.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1836,
+								1836
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1872,
+										1873
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1835,
+										1836
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 201.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/stylesheets/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										128,
+										129
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										109,
+										110
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/layout.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1192,
+								1192
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1191,
+										1192
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1156,
+										1157
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "views/register.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								102
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										111,
+										112
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										96,
+										97
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "start.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								18
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								459,
+								365
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "models/user.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								77
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										83,
+										84
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										54,
+										55
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nodejslogin.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 782.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 359.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
